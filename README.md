@@ -1,37 +1,12 @@
-<p align="center">
-  <img src="<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/4df32727-a607-4982-bd23-e072df083435" />
-" alt="Banner Lo-Fi" width="100%">
-</p>
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/511eb254-8eec-4c8d-bf1c-78830014a68d" />
 
-<br>
 
-## <img src="<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/042f0e9a-ae42-45ae-82cb-884049f5a6aa" />
-" width="40" valign="middle"> About me
 
+About Me
 👋 Olá! Sou estudante de Full Stack em aprendizado na Alura 💻 
 Tenho conhecimento básico de Python, e estou explorando cada vez mais o mundo do desenvolvimento back-end 🤖 
 Testes de automação e desenvolvimento de bots 🚀 
 Aqui compartilho meus estudos, experimentos e projetos pessoais enquanto evoluo minhas habilidades.
-
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <img src="<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/820e3413-ce8a-4720-8b32-30df576db76f" />
-" alt="Programador" width="60%">
-</p>
-
-
-
-
-
-
-
-
-
-
-Aqui você pode escrever uma breve descrição sobre você, suas tecnologias favoritas ou o que está estudando no momento.
 
 🛠️ Tecnologias e Ferramentas
 - 💻 HTML, CSS, JavaScript
